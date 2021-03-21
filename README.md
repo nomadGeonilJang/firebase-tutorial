@@ -45,6 +45,9 @@ firebase deploy // 배포가 진행됩니다.
 # Firebase Auth
 - Authentication으로 인증을 할 수 있어요!
 - 해당 콘솔에서 시작하기를 클릭!
+```js
+
+```
 # Firebase Real Time Database
 # Firebase Storage
 # Firebase Cloud Function
