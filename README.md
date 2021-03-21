@@ -43,6 +43,8 @@ firebase deploy // 배포가 진행됩니다.
 ```
 3. 무료 호스팅 성공!! 🌟_🌟
 # Firebase Auth
+- Authentication으로 인증을 할 수 있어요!
+- 해당 콘솔에서 시작하기를 클릭!
 # Firebase Real Time Database
 # Firebase Storage
 # Firebase Cloud Function
