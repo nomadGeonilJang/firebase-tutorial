@@ -45,8 +45,12 @@ firebase deploy // 배포가 진행됩니다.
 # Firebase Auth
 - Authentication으로 인증을 할 수 있어요!
 - 해당 콘솔에서 시작하기를 클릭!
+- 이메일 로그인 사용하기를 설정해줍니다.
 ```js
-
+firebase.auth().onAuthStateChanged((user)=>{ //로그인이 성공하면 이쪽으로 접근이 됩니다.
+    if(user){console.log(user)}
+    else console.log(user)
+})
 ```
 # Firebase Real Time Database
 # Firebase Storage
