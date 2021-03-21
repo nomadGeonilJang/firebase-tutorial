@@ -1,0 +1,20 @@
+{
+  "name": "firebase-tutorial",
+  "version": "1.0.0",
+  "description": "learn about firebase with me (혼자 구현 가능한 서비스!) 1. 개발환경 - mac - chrome - visual studio code - npm ```bash npm install --save firebase ``` # 웹 서비스 웹 서비스란?<br/> HTML(정적인 페이지) +(>) CSS(스타일의 추가) +(>) JS(동적인 요소)를 가지고 있는 흐름으로 변화한 서비스 ![웹 서비스](https://i.ibb.co/C0LFvk5/2021-03-21-11-57-50.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadGeonilJang/firebase-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomadGeonilJang/firebase-tutorial/issues"
+  },
+  "homepage": "https://github.com/nomadGeonilJang/firebase-tutorial#readme"
+}
