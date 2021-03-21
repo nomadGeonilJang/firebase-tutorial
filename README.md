@@ -1,2 +1,2 @@
 # firebase-tutorial
-learn about firebase
+learn about firebase with me
